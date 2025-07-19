@@ -24,7 +24,6 @@ O projeto possui duas páginas principais:
 
 - HTML5
 - CSS3
-- Layout responsivo
 - Boas práticas de estrutura e acessibilidade
 
 > “Ficar travado na programação é normal. Continuar sozinho é opcional.”
